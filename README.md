@@ -1,4 +1,14 @@
-GROCERY MANAGEMENT SYSTEM
+
+<h2><i>Grocery_Managememnt_System </i></h2>
+<h3>Languages</h3>
+<p>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
+
+<h3>Database</h3>
+<p>
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 The management of the stocks and inventories of a grocery shop is important to make 
 the business a success and sustain longer. The basic requirement for this management is to keep 
